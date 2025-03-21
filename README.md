@@ -4,7 +4,7 @@
 2025 好用的翻墙机场 - 绿树云
 ---------------------------------------
 
-[![绿树云官网 ](https://clashsub.net/wp-content/uploads/2023/10/%E6%82%A0%E5%85%94%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-2.webp "悠兔机场官网 ")](https://www.greentrees.cc) 
+[![绿树云官网 ](https://imgur.com/gNthuE5 "绿树云官网 ")](https://www.greentrees.cc) 
 
 - Shadowsocks 机场
 - IPLC专线翻墙机场
